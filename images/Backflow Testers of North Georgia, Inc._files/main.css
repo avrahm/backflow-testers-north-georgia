@@ -1,0 +1,17 @@
+.water-hr {
+    background-image: url(./images/blue-water.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 10px;
+}
+
+.accent {
+    font-size: larger;
+    color: rgba(24, 22, 126, 0.781);
+    font-weight: 400;
+}
+
+.copyright {
+    text-align: center;
+    padding: 10px;
+}
