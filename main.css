@@ -1,9 +1,12 @@
+
+
 .main {
     padding: 3rem 0rem;
 }
 
 .anchor {
-    margin-top: 6em;
+        padding-top: 6em;
+        margin-top: 3em;
 }
 
 .logo {
